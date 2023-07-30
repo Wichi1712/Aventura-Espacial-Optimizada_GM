@@ -294,7 +294,7 @@ if(!instance_exists(o_nave) &amp;&amp; vidaPlayer &gt; 0){
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>///DESARROLLADOR
+            <string>///DESARROLLADOR-solo para pruebas
 //if(keyboard_check( vk_enter)){
     //game_restart();
     //highscore_clear();
